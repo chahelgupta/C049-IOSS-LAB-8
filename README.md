@@ -1,5 +1,5 @@
 # C049-IOSS-LAB-8
-IOSS Lab 8 contains 2 question files and 2 answer files, and 1 lab report.
+IOSS Lab 8 contains 2 question files and 2 answer files, and 1 lab report and 1 lab report format.
 
 1—Aim: 
 Introduction to Libre Office tools.
