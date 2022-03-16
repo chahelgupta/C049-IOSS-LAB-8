@@ -4,7 +4,7 @@ IOSS Lab 8 contains 2 question files and 2 answer files, and 1 lab report and 1 
 1—Aim: 
 Introduction to Libre Office tools.
 
-3-Tasks: 
+2-Tasks: 
 
 1. An article, regarding the impacts of climate change is given in the same 
 folder in with the file name, Climate_Change.ott. Open this file in LibreOffice
